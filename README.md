@@ -8,4 +8,4 @@ It's Yukiteru!
 - 📫 How to reach me: WeChat `wfly1998`, Email `wfly1998 AT sina.com`
 - ⚡ Coding for fun
 
-In addition, Vim is the best editor!
+BTW, Vim is the best editor!
